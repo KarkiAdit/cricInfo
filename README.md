@@ -29,7 +29,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='https://imgur.com/a/KI8elkf' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+https://user-images.githubusercontent.com/68220732/221473883-9719ee6f-0585-4703-8e1e-5dedf8719a9b.mp4
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Filmora X and Imgur web app.  
